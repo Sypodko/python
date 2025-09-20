@@ -1,0 +1,5 @@
+import math as m
+
+n = int(input())
+result = m.factorial(n)
+print(result)
