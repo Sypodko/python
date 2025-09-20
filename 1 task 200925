@@ -1,5 +1,5 @@
 import math
 
-n = int(input("Введите число: "))
+n = int(input())
 result = math.factorial(n)
-print("Факториал числа", n, "равен", result)
+print(result)
